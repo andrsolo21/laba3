@@ -1,0 +1,4 @@
+3
+model1 color1 4
+model color 2
+model2 color2 90

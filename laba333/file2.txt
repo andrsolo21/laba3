@@ -1,0 +1,6 @@
+5
+model2 color2 2
+model1 color1 1
+model4 color4 4
+model3 color3 3
+model5 color5 5
